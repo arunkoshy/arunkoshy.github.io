@@ -10,7 +10,7 @@ The humble Garmin watch is a symbol, metaphor and literal manifestation of a sol
 
 More importantly, how does one filter out the agendas or fuzzy manipulators in these sources, human or otherwise, to ensure that one remains on the path of sustained, unstoppable and a juggernaut like arc of progress?
 
-The watch demonstrates how such a filter would work. Basically, to discern value and truthiness of feedback in a context, try to see how distant it is to say the Garmin watch. The watch does not lie, it’s non-political and has very defined limits of operations ( as well as error mode ). I call this the “ Garmin distance “ in honor of the Hamming distance [2].
+The watch demonstrates how such a filter would work. Basically, to discern value and truthiness of feedback in a context, try to see how similar ( or dissimilar ) it is to the Garmin's race mode. The watch does not lie, it’s non-political and has very defined limits of operations ( as well as error mode ). I call this the “ Garmin distance “ in honor of the Hamming distance [2].
 
 If somebody or some source of feedback does not grant an understanding of the precise and minimum number of changes to be made toward measurable progress, you’ve to look elsewhere.
 

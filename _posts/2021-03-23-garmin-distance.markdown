@@ -20,4 +20,4 @@ Constructive, gentle, precise, actionable feedback is a time-machine to a better
 
 [1] - random joke seen on pinterest
 
-[2] - _“ measures the minimum number of substitutions required to change one string into the other, or the minimum number of errors that could have transformed one string into the other.“_, source: <https://en.wikipedia.org/wiki/Hamming_distance/>
+[2] - _“ measures the minimum number of substitutions required to change one string into the other, or the minimum number of errors that could have transformed one string into the other.“_, source: <https://en.wikipedia.org/wiki/Hamming_distance>

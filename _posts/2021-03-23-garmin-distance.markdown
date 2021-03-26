@@ -13,7 +13,7 @@ More importantly, how does one filter out the agendas or fuzzy manipulators in t
 
 The watch demonstrates how such a filter would work. Basically, to discern value and truthiness of feedback in a context, try to see how similar ( or dissimilar ) it is to the Garmin's race mode. The watch does not lie, it’s non-political and has very defined limits of operations ( as well as error mode ). I call this the “ Garmin distance “ in honor of the Hamming distance [2].
 
-If a source of feedback does not entail the precise and minimum number of changes to be made toward measurable progress, you’ve to look elsewhere.
+If given feedback does not entail precise and minimum number of changes to be made toward measurable progress, you’ve to look elsewhere.
 
 Constructive, gentle, precise, actionable feedback is a time-machine to a better future. So is ignoring and ruthlessly eliminating the rest. Higher the stakes, the more literal this mechanism must be.
 

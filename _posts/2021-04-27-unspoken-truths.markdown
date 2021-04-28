@@ -27,7 +27,7 @@ e) If you have multiple offers and one of them offers a significant pay-bump, ta
 
 f) Don't be surprised at friendships getting frayed or weird within the work drama -- expect it and show a lot of grace. Ensure that the friendship survives while you learn more about the game.
 
-g) Have as much resources ( read as capital, leverage, equity ) as the folks sitting across the table if you want a deal that is among equals.
+g) Have parity or supremacy of resources ( read as capital, leverage, equity ) to the folks sitting across the table if you want a deal among equals.
 
 h) Those that are getting better are getting harder to lord over [4]. Those who get bitter are getting easier to rule over.
 

@@ -48,3 +48,5 @@ For the remaining three, I hold them close to chest. They cost a fair quid and I
 [3] - https://genius.com/Zack-hemsey-dont-get-in-my-way-lyrics
 
 [4] - " The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things.. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? " - Will Smith
+
+[5] - " My partner Charlie (Munger) says there is only three ways a smart person can go broke: liquor, ladies, and leverage. Now the truth is — the first two he just added because they started with L — it’s leverage. " - Warren

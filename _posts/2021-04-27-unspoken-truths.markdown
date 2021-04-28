@@ -10,7 +10,7 @@ Bit's I've learned across 14 years:
 
 0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other truths.
 
-a) Parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
+a) My parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if I thought they had no clue. Due to a broken world, I understand this may not be true for all. True prophets == serious skin in the game.. they are usually teachers, mentors, parental archetypes.
 
 b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends who are VCs, LPs. Outcomes ranges from acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs. The big whale outcomes are statistically a long-lost cousin of some of them mega lotteries.
 
@@ -23,7 +23,7 @@ Cuz I fear no fall, no brawl, no scars " [3]
 
 d) If there is an at-will contract involved, whatever the context is.. It ain't family. Run for your life if you hear how something is like family or  references to Mother Teresa. Saints are rarely in gambling dens and if you are in such a den, don't expect virtue.
 
-e) If you have multiple offers and one of them offers a significant pay-bump, listen to the pied piper who will pay you more even if they award you a lesser title. Watch for the fine-print in contracts.
+e) If you have multiple offers and one of them offers a significant pay-bump, take that. Only other factor is how healthy the organization is from a capital perspective (so it's probalistically smarter to take a 200K with a mega-corp vs the " startup "). Watch for the fine-print in contracts.
 
 f) Don't be surprised at friendships getting frayed or weird within the work drama -- expect it and show a lot of grace. Ensure that the friendship survives while you learn more about the game.
 

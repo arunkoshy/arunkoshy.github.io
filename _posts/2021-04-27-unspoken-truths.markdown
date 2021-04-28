@@ -6,7 +6,7 @@ categories: Life
 ---
 ### _“ Everybody's got a right to be a sucker ... once. “_ [1]
 
-Bit's I've learned across 14 years:
+Bits I've learned across 14 years:
 
 0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other truths.
 

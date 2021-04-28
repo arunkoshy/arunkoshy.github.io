@@ -8,7 +8,7 @@ categories: Life
 
 Bit's I've learned across 14 years:
 
-0) Fear G-d and keep His commandments [0]. This one is what got me out unscathed even as I missed the mark on the other 13 truths.
+0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other 13 truths.
 
 a) Parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
 
@@ -37,7 +37,7 @@ j) Even the worldly figure out with or without G-d that the road to ruin is usua
 
 k) Assemble a set of elders with virtue and stick with them across decades given the grace. I was fortunate.. this was another one that I got very, very right. They will represent the true market, one that is not a voting machine.. but the weighing machine.
 
-For the remaining two, I hold those close to chest. They cost a fair quid and I suspect everybody has to pay a price. Happy trails.
+The remaining two, I hold those close to chest. They cost a fair bit and I suspect everybody has to pay a price. Happy trails.
 
 #### _references_
 

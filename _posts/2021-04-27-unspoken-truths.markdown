@@ -35,7 +35,7 @@ i) If you maintain virtue and avoid vices, over time, you will absolutely own th
 
 j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. 
 
-k) Never listen even for a moment to those want you to deprioritize family, faith etc around money/work. They are going to be unhappy, don't follow them. This applies even if they parade their filthy lucre and results. You don't want to have their funeral.
+k) Never listen even for a moment to those who want you to deprioritize family, faith etc around money/work. They are going to be unhappy, don't follow them. This applies even if they parade their filthy lucre and results. You don't want to have their funeral.
 
 l) Assemble a set of elders with virtue and stick with them across decades given the grace. I was fortunate.. this was another one that I got very, very right. They will represent the true market, one that is not a voting machine.. but the weighing machine.
 

@@ -27,11 +27,13 @@ e) If you have multiple offers and one of them offers a significant pay-bump, li
 
 f) Don't be surprised at friendships getting frayed or weird within the work drama -- expect it and show a lot of grace. Ensure that the friendship survives while you learn more about the game.
 
-g) Have as much resources ( read as capital, leverage, equity ) as the folks sitting across the table if you want a deal that is among equals. All the rest are some variation on employment.
+g) Have as much resources ( read as capital, leverage, equity ) as the folks sitting across the table if you want a deal that is among equals.
 
 h) Those that are getting better are getting harder to lord over [4]. Those who get bitter are getting easier to rule over.
 
 i) If you maintain virtue in the face where folks are telling you to try vices, over time, you will absolutely own the entire show. Listening to those who are already in some level of Dante's Inferno is not exactly the route to heaven.
+
+j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. Never listen even for a moment to those want you to deprioritize family, faith etc around money. They are going to be unhappy, don't follow those suckers.
 
 For the remaining three, I hold them close to chest. They cost a fair quid and I suspect everybody has to figure those out on their own. Happy trails.
 

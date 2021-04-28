@@ -10,7 +10,7 @@ Bit's I've learned across 14 years:
 
 0) Fear G-d and keep His commandments [0]. This one is what got me out unscathed even as I missed the mark on the other 13 truths.
 
-a) Moms are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
+a) Parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
 
 b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends who are VCs, LPs. Outcomes ranges from acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs. The big whale outcomes are statistically a long-lost cousin of some of them mega lotteries.
 
@@ -35,7 +35,9 @@ i) If you maintain virtue in the face where folks are telling you to try vices, 
 
 j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. Never listen even for a moment to those want you to deprioritize family, faith etc around money. They are going to be unhappy, don't follow those suckers.
 
-For the remaining three, I hold them close to chest. They cost a fair quid and I suspect everybody has to figure those out on their own. Happy trails.
+k) Assemble a set of elders with virtue and stick with them across decades given the grace. I was fortunate.. this was another one that I got very, very right. They will represent the true market, one that is not a voting machine.. but the weighing machine.
+
+For the remaining two, I hold those close to chest. They cost a fair quid and I suspect everybody has to pay a price. Happy trails.
 
 #### _references_
 

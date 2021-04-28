@@ -8,20 +8,20 @@ categories: Life
 
 Bit's I've learned across 14 years:
 
-0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other 13 truths.
+0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other truths.
 
 a) Parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
 
 b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends who are VCs, LPs. Outcomes ranges from acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs. The big whale outcomes are statistically a long-lost cousin of some of them mega lotteries.
 
-c) Take care of your immigration bits and never let it be a leverage that anybody can play with over your hunt. Remember this song while you do it:
+c) Take care of your immigration bits and never let it be something an employer can lord over with. This song applies to this and a few other truths:
 
 " So if you want to push, I'ma shove
 If you want to spar we can do it no gloves
 And if you're gonna run at me you better do it hard
 Cuz I fear no fall, no brawl, no scars " [3]
 
-d) If there is an at-will contract involved, whatever the context is. It ain't family. Run for your life if you hear how something is like family or even references to Mother Teresa. Saints are laughed out of gambling dens and if you are hearing said bits in such a den, run a few miles.
+d) If there is an at-will contract involved, whatever the context is.. It ain't family. Run for your life if you hear how something is like family or  references to Mother Teresa. Saints are rarely in gambling dens and if you are in such a den, don't expect virtue.
 
 e) If you have multiple offers and one of them offers a significant pay-bump, listen to the pied piper who will pay you more even if they award you a lesser title. Watch for the fine-print in contracts.
 
@@ -33,11 +33,13 @@ h) Those that are getting better are getting harder to lord over [4]. Those who 
 
 i) If you maintain virtue in the face where folks are telling you to try vices, over time, you will absolutely own the entire show. Listening to those who are already in some level of Dante's Inferno is not exactly the route to heaven.
 
-j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. Never listen even for a moment to those want you to deprioritize family, faith etc around money. They are going to be unhappy, don't follow those suckers.
+j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. 
 
-k) Assemble a set of elders with virtue and stick with them across decades given the grace. I was fortunate.. this was another one that I got very, very right. They will represent the true market, one that is not a voting machine.. but the weighing machine.
+k) Never listen even for a moment to those want you to deprioritize family, faith etc around money/work. They are going to be unhappy, don't follow them. This applies even if they parade their filthy lucre and results. You don't want to have their funeral.
 
-The remaining two, I hold those close to chest. They cost a fair bit and I suspect everybody has to pay a price. Happy trails.
+l) Assemble a set of elders with virtue and stick with them across decades given the grace. I was fortunate.. this was another one that I got very, very right. They will represent the true market, one that is not a voting machine.. but the weighing machine.
+
+The remaining one truth, I hold that close to chest. It cost a fair bit and I suspect everybody has to pay a price. Happy trails.
 
 #### _references_
 

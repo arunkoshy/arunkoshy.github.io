@@ -10,7 +10,7 @@ Bit's I've learned across 14 years:
 
 0) Fear G-d [0]. This one is what got me out unscathed even as I missed the mark on the other truths.
 
-a) My parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if I thought they had no clue. Due to a broken world, I understand this may not be true for all. True prophets == serious skin in the game.. they are usually teachers, mentors, parental archetypes.
+a) My parents are true prophets.. they have serious skin in the game. Time has a weird way of proving them right. Due to a broken world, I understand this may not be true for all. True prophets == serious skin in the game.. they are usually teachers, mentors, parental archetypes who invest deeply in _ you _ .
 
 b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends who are VCs, LPs. Outcomes ranges from acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs. The big whale outcomes are statistically a long-lost cousin of some of them mega lotteries.
 

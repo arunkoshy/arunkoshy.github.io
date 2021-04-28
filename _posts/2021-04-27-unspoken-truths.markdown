@@ -31,7 +31,7 @@ g) Have parity or supremacy of resources ( read as capital, leverage, equity ) t
 
 h) Those that are getting better are getting harder to lord over [4]. Those who get bitter are getting easier to rule over.
 
-i) If you maintain virtue in the face where folks are telling you to try vices, over time, you will absolutely own the entire show. Listening to those who are already in some level of Dante's Inferno is not exactly the route to heaven.
+i) If you maintain virtue and avoid vices, over time, you will absolutely own the entire show. Listening to those who are already in some level of Dante's Inferno is not exactly the route to heaven.
 
 j) Even the worldly figure out with or without G-d that the road to ruin is usually well mapped [5]. Avoid those roads. A good life depends on it. 
 

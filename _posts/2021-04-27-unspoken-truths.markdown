@@ -12,7 +12,7 @@ Bit's I've learned across 14 years:
 
 a) Moms are true prophets.. they have serious skin in the game. Time has a weird way of proving them right even if you thought they had no clue.
 
-b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends are VCs, preferably LPs. Outcomes include acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs.
+b) Most ventures fail. So while you listen to pied-piper visionary Steve the CEO, keep in mind basic math around "hyper-scale" or even " success " [2]. If so blessed, talk to friends who are VCs, LPs. Outcomes ranges from acquisition with double-digit % layoffs ( usually all but non-core engineering ) to absolute write-offs. The big whale outcomes are statistically a long-lost cousin of some of them mega lotteries.
 
 c) Take care of your immigration bits and never let it be a leverage that anybody can play with over your hunt. Remember this song while you do it:
 
@@ -29,7 +29,11 @@ f) Don't be surprised at friendships getting frayed or weird within the work dra
 
 g) Have as much resources ( read as capital, leverage, equity ) as the folks sitting across the table if you want a deal that is among equals. All the rest are some variation on employment.
 
-For the remaining six, I hold them close to chest. They cost a fair quid and I suspect everybody has to figure those out on their own. Happy trails.
+h) Those that are getting better are getting harder to lord over [4]. Those who get bitter are getting easier to rule over.
+
+i) If you maintain virtue in the face where folks are telling you to try vices, over time, you will absolutely own the entire show. Listening to those who are already in some level of Dante's Inferno is not exactly the route to heaven.
+
+For the remaining three, I hold them close to chest. They cost a fair quid and I suspect everybody has to figure those out on their own. Happy trails.
 
 #### _references_
 
@@ -40,3 +44,5 @@ For the remaining six, I hold them close to chest. They cost a fair quid and I s
 [2] - https://web.stanford.edu/~rehall/Hall-Woodward%20on%20entrepreneurship.pdf
 
 [3] - https://genius.com/Zack-hemsey-dont-get-in-my-way-lyrics
+
+[4] - " The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things.. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? " - Will Smith

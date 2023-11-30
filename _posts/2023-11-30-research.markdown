@@ -21,3 +21,35 @@ Andrew Ng’s tips to navigate a new problem space or research topic.
 4. Quality indicators for a resource
    * a) citations vs time
    * b) repetition, applicability by others
+
+### _“Reading How-To“_
+
+1. Write notes
+2. Multiple passes, read the
+   * a) abstract / title / figures [skim]
+   * b) introduction & conclusions [skim, skip math]
+   * c) whole paper [skip math]
+   * d) whole paper [including math]
+
+### _“Math How-To“_
+
+1. Re-Derive from scratch [ time-intensive but worth doing for key material ]
+2. Code
+   * a) Run / Play with open-source or other available repositories
+   * b) Refactor / Tweak for new use-cases or features
+   * c) Re-implement / Extend
+
+### _“Questions-To-Ask“_
+
+1. What did the authors try to accomplish?
+2. What are the key elements of their approach?
+3. What can you use for your scope or project?
+4. What references are worth drilling down into? (e.g. some references may be in place for less than optimal reasons)
+
+### _“Reading Sourcing“_
+
+1. MIPS / ICML / ICLR
+2. Arxiv Sanity [some folks find this useful]
+3. Google Scholar or similar
+4. Twitter / ML Subreddit [tweak: filter for pure URLs/PDFs to kill noise]
+5. Friends / Community

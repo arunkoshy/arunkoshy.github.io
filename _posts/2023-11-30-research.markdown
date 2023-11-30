@@ -11,12 +11,12 @@ Andrew Ng’s tips to navigate a new problem space or research topic.
 
 1. Compile a list of resources: can include papers, books, blogs et.al.
 2. Skip around list
-   a) For e.g., we found five papers
-   b) Quickly skim:
-    i) eliminate from the list
-    ii) focus on remaining with perhaps couple that seems seminal
-    iii) add to list
-    iv) 5–20 papers on average is sufficient for applied work, 50-100 (or beyond) papers start approaching Ph.D./ formal research.
+   * a) For e.g., we found five papers
+   * b) Quickly skim:
+     ** i) eliminate from the list
+     ** ii) focus on remaining with perhaps couple that seems seminal
+     ** iii) add to list
+     ** iv) 5–20 papers on average is sufficient for applied work, 50-100 (or beyond) papers start approaching Ph.D./ formal research.
 3. Remember 2 papers a week vs 0 papers a week is the difference between zero expertise and mastery within a year (at a very relaxed pace).
 
 4. Quality indicators for a resource
